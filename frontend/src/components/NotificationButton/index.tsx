@@ -1,13 +1,13 @@
-import './styles.css';
+import "./styles.css";
 
-import icon from '../../assets/images/notification-icon.svg';
+import icon from "../../assets/images/notification-icon.svg";
 
 function NotificationButton() {
-    return (
-        <div className="dsmeta-red-btn">
-            <img src={icon} alt="Notificar" />
-        </div>
-    )
+  return (
+    <div className="dsmeta-red-btn">
+      <img src={icon} alt="Notificar" />
+    </div>
+  );
 }
 
-export default NotificationButton
+export default NotificationButton;
