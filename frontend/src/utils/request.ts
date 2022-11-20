@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:8080" ?? "https://dsmeta-amorim.herokuapp.com";
+export const BASE_URL = "https://dsmeta-amorim.herokuapp.com" ?? "http://localhost:8080";
